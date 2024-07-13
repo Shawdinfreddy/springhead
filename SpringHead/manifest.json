@@ -1,0 +1,10 @@
+{
+  "name": "SpringHead",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Adds 1 new scrap",
+  "dependencies": [
+    "HolographicWings-LethalSDK-1.3.36",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
